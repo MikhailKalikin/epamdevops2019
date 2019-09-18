@@ -2,7 +2,7 @@
 В случае если во время лекции были использованы какие либо файлы (конфигурационные и прочие) их можно найти в каталоге additional_materials соответствующей лекции
 - [DevOps как профессия. Обзорная часть][1]
 - [Подготовка окружения][2]
-- Сети (Модель, Протоколы, Сервисы)
+- (Сети. Модель, Протоколы, Сервисы) [3]
 - Операционные системы семейства Linux
 - Операционные системы семейства Windows
 - Разработка ПО
@@ -16,3 +16,4 @@
 
 [1]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit1/Unit%201.pdf
 [2]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit2/Unit%202.pdf
+[3]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit3/Unit%203.pdf
