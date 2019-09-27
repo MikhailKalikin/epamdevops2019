@@ -5,7 +5,7 @@
 - [Сети (Модель, Протоколы, Сервисы)][3]
 - [Операционные системы семейства Linux][4]
 - Операционные системы семейства Windows
-- Разработка ПО
+- [Разработка ПО][5]
 - Средства автоматизации
 - Контейнеризация и оркестрация
 - Облачные среды
@@ -18,3 +18,4 @@
 [2]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit2/Unit%202.pdf
 [3]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit3/Unit%203.pdf
 [4]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit4/Unit%204.pdf
+[5]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit6/Unit%206.pdf
