@@ -5,7 +5,7 @@
 - [Сети (Модель, Протоколы, Сервисы)][3]
 - [Операционные системы семейства Linux][4]
 - [Разработка ПО][5]
-- Средства автоматизации
+- [Средства автоматизации][6]
 - Контейнеризация и оркестрация
 - Облачные среды
 - Мониторинг
@@ -19,3 +19,4 @@
 [3]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit3/Unit%203.pdf
 [4]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit4/Unit%204.pdf
 [5]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit5/Unit%205.pdf
+[6]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit6/Unit%206.pdf
