@@ -7,9 +7,9 @@
 - [Разработка ПО][5]
 - [Средства автоматизации][6]
 - [Контейнеризация и оркестрация][7]
-- Облачные среды
-- Мониторинг
+- [Мониторинг][8]
 - Журналирование
+- Облачные среды
 - Операционные системы семейства Windows
 - Отказоустойчивость. Высокая доступность
 
@@ -21,3 +21,4 @@
 [5]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit5/Unit%205.pdf
 [6]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit6/Unit%206.pdf
 [7]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit7/Unit%207.pdf
+[8]: https://github.com/Uglykoyote/epamdevops2019/blob/master/unit8/Unit%208.pdf
