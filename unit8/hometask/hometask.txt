@@ -1,0 +1,23 @@
+home task
+1. Установка и настройка системы мониторинга Zabbix + установка и настройка zabbix-агентов на других хостах, использование БД pgsql
+https://www.zabbix.com/documentation/4.4/ru/manual/installation/install_from_packages/rhel_centos
+
+https://www.zabbix.com/documentation/4.4/ru/manual/config/hosts узлы сети
+https://www.zabbix.com/documentation/4.4/ru/manual/config/items элементы данных
+https://www.zabbix.com/documentation/4.4/ru/manual/config/triggers триггеры
+https://www.zabbix.com/documentation/4.4/ru/manual/config/events события
+https://www.zabbix.com/documentation/4.4/ru/manual/config/users_and_usergroups пользоваели и группы
+https://www.zabbix.com/documentation/4.4/ru/manual/xml_export_import импорт и экспорт 
+
+2.Установка и настройка системы мониторинга Prometheus + exporter’s  cadvisor & nodeexporter
+https://prometheus.io/docs/prometheus/latest/installation/
+
+3.Установка и настройка Grafana и добавление в нее данных из zabbix, создание дашбордов 
+https://grafana.com/docs/installation/rpm/
+
+4.Установка мониторнинга Zabbix + Grafana+Prometheus+Nodeexporter+Cadvisor в Docker-compose
+https://docs.docker.com/compose/
+
+5. - Newrelic.com, https://docs.newrelic.com/
+- Зерегистрироваться, получить trial лицензию на Infrastructure мониторинг, поставить агента на Windows машину, настроить мониторинг CPU
+https://newrelic.com
