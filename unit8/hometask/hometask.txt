@@ -1,23 +1,23 @@
 home task
-1. Установка и настройка системы мониторинга Zabbix + установка и настройка zabbix-агентов на других хостах, использование БД pgsql
+1. вЂќСѓСЃС‚Р°РЅРѕРІРєР° Рё РЅР°СЃС‚СЂРѕР№РєР° СЃРёСЃС‚РµРјС‹ РјРѕРЅРёС‚РѕСЂРёРЅРіР° Zabbix + СѓСЃС‚Р°РЅРѕРІРєР° Рё РЅР°СЃС‚СЂРѕР№РєР° zabbix-Р°РіРµРЅС‚РѕРІ РЅР° РґСЂСѓРіРёС… С…РѕСЃС‚Р°С…, РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ DB pgsql
 https://www.zabbix.com/documentation/4.4/ru/manual/installation/install_from_packages/rhel_centos
 
-https://www.zabbix.com/documentation/4.4/ru/manual/config/hosts узлы сети
-https://www.zabbix.com/documentation/4.4/ru/manual/config/items элементы данных
-https://www.zabbix.com/documentation/4.4/ru/manual/config/triggers триггеры
-https://www.zabbix.com/documentation/4.4/ru/manual/config/events события
-https://www.zabbix.com/documentation/4.4/ru/manual/config/users_and_usergroups пользоваели и группы
-https://www.zabbix.com/documentation/4.4/ru/manual/xml_export_import импорт и экспорт 
+https://www.zabbix.com/documentation/4.4/ru/manual/config/hosts СѓР·Р»С‹ СЃРµС‚Рё
+https://www.zabbix.com/documentation/4.4/ru/manual/config/items СЌР»РµРјРµРЅС‚С‹ РґР°РЅРЅС‹С…
+https://www.zabbix.com/documentation/4.4/ru/manual/config/triggers С‚СЂРёРіРіРµСЂС‹
+https://www.zabbix.com/documentation/4.4/ru/manual/config/events СЃРѕР±С‹С‚РёВ¤
+https://www.zabbix.com/documentation/4.4/ru/manual/config/users_and_usergroups РїРѕР»СЊР·РѕРІР°РµР»Рё Рё РіСЂСѓРїРїС‹
+https://www.zabbix.com/documentation/4.4/ru/manual/xml_export_import РёРјРїРѕСЂС‚ Рё СЌРєСЃРїРѕСЂС‚ 
 
-2.Установка и настройка системы мониторинга Prometheus + exporter’s  cadvisor & nodeexporter
+2.вЂќСѓСЃС‚Р°РЅРѕРІРєР° Рё РЅР°СЃС‚СЂРѕР№РєР° СЃРёСЃС‚РµРјС‹ РјРѕРЅРёС‚РѕСЂРёРЅРіР° Prometheus + exporters  cadvisor & nodeexporter
 https://prometheus.io/docs/prometheus/latest/installation/
 
-3.Установка и настройка Grafana и добавление в нее данных из zabbix, создание дашбордов 
+3.вЂќСѓСЃС‚Р°РЅРѕРІРєР° Рё РЅР°СЃС‚СЂРѕР№РєР° Grafana Рё РґРѕР±Р°РІР»РµРЅРёРµ РІ РЅРµРµ РґР°РЅРЅС‹С… РёР· zabbix, СЃРѕР·РґР°РЅРёРµ РґР°С€Р±РѕСЂРґРѕРІ 
 https://grafana.com/docs/installation/rpm/
 
-4.Установка мониторнинга Zabbix + Grafana+Prometheus+Nodeexporter+Cadvisor в Docker-compose
+4.вЂќСѓСЃС‚Р°РЅРѕРІРєР° РјРѕРЅРёС‚РѕСЂРЅРёРЅРіР° Zabbix + Grafana+Prometheus+Nodeexporter+Cadvisor РІ Docker-compose
 https://docs.docker.com/compose/
 
 5. - Newrelic.com, https://docs.newrelic.com/
-- Зерегистрироваться, получить trial лицензию на Infrastructure мониторинг, поставить агента на Windows машину, настроить мониторинг CPU
+- В«Р·Р°СЂРµСЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊСЃВ¤, РїРѕР»СѓС‡РёС‚СЊ trial Р»РёС†РµРЅР·РёСЋ РЅР° Infrastructure РјРѕРЅРёС‚РѕСЂРёРЅРі, РїРѕСЃС‚Р°РІРёС‚СЊ Р°РіРµРЅС‚Р° РЅР° Windows РјР°С€РёРЅСѓ, РЅР°СЃС‚СЂРѕРёС‚СЊ РјРѕРЅРёС‚РѕСЂРёРЅРі CPU
 https://newrelic.com
